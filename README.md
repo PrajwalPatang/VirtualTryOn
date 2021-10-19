@@ -32,7 +32,7 @@ by 2025.
 they really buy the item. This give customers the complete liberty of selecting products at their own comfort, without actually
 feeling pressurized about buying something and later regretting about it.
 
-                     *Refer virtual_try_on_ppt.pdf for the results*
+  *Refer virtual_try_on_ppt.pdf for the results*
 
     This concept of virtual try-on can be used by online stores and help their costumers know
 how they would look in that attire. Collecting the appropriate data of both target cloth
